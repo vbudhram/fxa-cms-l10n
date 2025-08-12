@@ -1,4 +1,4 @@
-# Generated on 2025-08-07T16:36:25.186Z
+# Generated on 2025-08-12T19:58:30.650Z
 # FTL file for CMS localization
 
 # desktopSync - Desktop Sync - fxa_avatar_menuuuuuu12345
@@ -69,7 +69,7 @@ desktopSync-VerifyShortCodeEmail-headline-e2bbf688 = Confirm your email address 
 # Subject for Verify Short Code Email
 desktopSync-VerifyShortCodeEmail-subject-ef1fb997 = Confirm your account
 
-# desktopSyncFirefoxCms - Desktop Sync222221
+# desktopSyncFirefoxCms - Desktop Sync22
 # Description for Email First Page
 desktopSyncFirefoxCms-EmailFirstPage-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 # Headline for Email First Page
