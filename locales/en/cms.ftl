@@ -1,7 +1,7 @@
-# Generated on 2025-08-12T19:59:40.917Z
-# FTL file for CMS localization
+### Generated on 2025-08-12T20:16:03.401Z
+### FTL file for CMS localization
 
-# desktopSync - Desktop Sync - fxa_avatar_menuuuuuu12345
+## desktopSync - Desktop Sync - fxa_avatar_menuuuuuu12345
 # Description for Email First Page
 desktopSync-EmailFirstPage-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 # Headline for Email First Page
@@ -69,7 +69,7 @@ desktopSync-VerifyShortCodeEmail-headline-e2bbf688 = Confirm your email address 
 # Subject for Verify Short Code Email
 desktopSync-VerifyShortCodeEmail-subject-ef1fb997 = Confirm your account
 
-# desktopSyncFirefoxCms - Desktop Sync22
+## desktopSyncFirefoxCms - Desktop Sync2233
 # Description for Email First Page
 desktopSyncFirefoxCms-EmailFirstPage-description-71aa24a2 = Sync your passwords, tabs, and bookmarks everywhere you use Firefox, maybe?
 # Headline for Email First Page
@@ -125,7 +125,7 @@ desktopSyncFirefoxCms-VerifyShortCodeEmail-headline-f8578b7c = Use the included 
 # Subject for Verify Short Code Email
 desktopSyncFirefoxCms-VerifyShortCodeEmail-subject-ef1fb997 = Confirm your account
 
-# OneTwoThreeDone - 123Done111111111111
+## OneTwoThreeDone - 123Done111111111111
 # Description for Email First Page
 OneTwoThreeDone-EmailFirstPage-description-54faaa23 = Start your clutter-free to-do list with 123Done. Sign up with your email to create a Mozilla account and get started today.
 # Headline for Email First Page
