@@ -1,4 +1,4 @@
-### Generated on 2025-08-20T15:23:22.253Z
+### Generated on 2025-08-20T15:24:05.922Z
 ### FTL file for CMS localization
 
 ## default - Desktop Sync - default
@@ -68,6 +68,8 @@ default-VerifyShortCodeEmail-subject-ef1fb997 = Confirm your account
 desktopSync-EmailFirstPage-description-aac3076a = Sync your passwords, tabs, and bookmarks everywhere you use ⁨Firefox⁩.
 # Headline for Email First Page
 desktopSync-EmailFirstPage-headline-d4399885 = Continue to your ⁨Mozilla account⁩
+# Logo Alt Text for Email First Page
+desktopSync-EmailFirstPage-logoAltText-8c2857a9 = Logo
 # Primary Button Text for Email First Page
 desktopSync-EmailFirstPage-primaryButtonText-44e2b9b7 = Get Started Today!!!
 # Description for New Device Login Email
