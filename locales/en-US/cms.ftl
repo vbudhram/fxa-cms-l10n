@@ -13,7 +13,7 @@ desktopSync-EmailFirstPage-headline-d4399885 = Continue to your Mozilla account
 
 desktopSync-EmailFirstPage-description-aac3076a = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 
-desktopSync-EmailFirstPage-primaryButtonText-e0c4332e = Get Started
+desktopSync-EmailFirstPage-primaryButtonText-e0c4332e = Get Started?
 
 desktopSync-SignupSetPasswordPage-headline-7e0aff4a = Set your password
 
