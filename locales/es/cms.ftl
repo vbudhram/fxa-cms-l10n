@@ -3,138 +3,138 @@
 
 ## desktopSync2 - Desktop Sync - fxa_avatar_menuuuuuu111
 # Description for Email First Page
-4ac18cac = Sincroniza tus contraseñas, pestañas y marcadores en todos los lugares donde uses Firefox.
+fxa-4ac18cac = Sincroniza tus contraseñas, pestañas y marcadores en todos los lugares donde uses Firefox.
 # Headline for Email First Page
-33e9f42d = Continúa a tu cuenta de Mozilla
+fxa-33e9f42d = Continúa a tu cuenta de Mozilla
 # Logo Alt Text for Email First Page
-8c2857a9 = Logo
+fxa-8c2857a9 = Logo
 # Primary Button Text for Email First Page
-44e2b9b7 = ¡¡¡Comenzar hoy!!!
+fxa-44e2b9b7 = ¡¡¡Comenzar hoy!!!
 # Description for New Device Login Email
-361824c1 = Has iniciado sesión en Firefox
+fxa-361824c1 = Has iniciado sesión en Firefox
 # Headline for New Device Login Email
-a0a749e1 = Nuevo inicio de sesión en Firefox
+fxa-a0a749e1 = Nuevo inicio de sesión en Firefox
 # Email From Name for Shared
-763f7f1a = Firefox
+fxa-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
-96e4284e = Logo de Firefox
+fxa-96e4284e = Logo de Firefox
 # Description for Signin Page
-673ee3c7 = para iniciar sesión en Firefox y comenzar a sincronizar.
+fxa-673ee3c7 = para iniciar sesión en Firefox y comenzar a sincronizar.
 # Headline for Signin Page
-e8d28194 = Ingresa tu contraseña
+fxa-e8d28194 = Ingresa tu contraseña
 # Primary Button Text for Signin Page
-b6d4223e = Iniciar sesión
+fxa-b6d4223e = Iniciar sesión
 # Description for Signin Token Code Page
-1e791281 = Un último paso, verifica la dirección de correo de tu cuenta.
+fxa-1e791281 = Un último paso, verifica la dirección de correo de tu cuenta.
 # Headline for Signin Token Code Page
-d076f12b = Ingresa el código de confirmación
+fxa-d076f12b = Ingresa el código de confirmación
 # Primary Button Text for Signin Token Code Page
-a0bfb8e5 = Continuar
+fxa-a0bfb8e5 = Continuar
 # Description for Signin Unblock Code Page
-a7ba1d71 = Queremos asegurarnos de que eres tú. Verifica tu dirección de correo.
+fxa-a7ba1d71 = Queremos asegurarnos de que eres tú. Verifica tu dirección de correo.
 # Headline for Signin Unblock Code Page
-32aa265b = Autoriza este inicio de sesión
+fxa-32aa265b = Autoriza este inicio de sesión
 # Primary Button Text for Signin Unblock Code Page
-7f83df9c = Autorizar
+fxa-7f83df9c = Autorizar
 # Primary Button Text for Signup Confirm Code Page
-6b862186 = Confirmar Correo
+fxa-6b862186 = Confirmar Correo
 # Description for Signup Confirmed Sync Page
-80ddaf0e = Tus contraseñas, direcciones, marcadores, historial y más pueden sincronizarse en todos los lugares donde uses Firefox...
+fxa-80ddaf0e = Tus contraseñas, direcciones, marcadores, historial y más pueden sincronizarse en todos los lugares donde uses Firefox...
 # Headline for Signup Confirmed Sync Page
-068241d3 = Estás sincronizando Firefox
+fxa-068241d3 = Estás sincronizando Firefox
 # Primary Button Text for Signup Confirmed Sync Page
-49477717 = Lo siguiente
+fxa-49477717 = Lo siguiente
 # Description for Signup Set Password Page
-9383a42f = Crea una contraseña fuerte y segura para encriptar tus datos.
+fxa-9383a42f = Crea una contraseña fuerte y segura para encriptar tus datos.
 # Headline for Signup Set Password Page
-7e0aff4a = Establece tu contraseña
+fxa-7e0aff4a = Establece tu contraseña
 # Primary Button Text for Signup Set Password Page
-af214972 = Establecer Contraseña
+fxa-af214972 = Establecer Contraseña
 # Description for Verify Login Code Email
-fe389eef = Ingresa el código de verificación en Firefox
+fxa-fe389eef = Ingresa el código de verificación en Firefox
 # Subject for Verify Login Code Email
-450ba359 = Aprobar inicio de sesión en Firefox
+fxa-450ba359 = Aprobar inicio de sesión en Firefox
 # Description for Verify Short Code Email
-e2bbf688 = Confirma tu dirección de correo para comenzar a sincronizar tu navegador.
+fxa-e2bbf688 = Confirma tu dirección de correo para comenzar a sincronizar tu navegador.
 # Subject for Verify Short Code Email
-3fb2d42e = ¡¡¡¡¡Confirma tu cuenta!!!!!
+fxa-3fb2d42e = ¡¡¡¡¡Confirma tu cuenta!!!!!
 
 ## desktopSyncFirefoxCms - Desktop Sync2233
 # Description for Email First Page
-71aa24a2 = Sincroniza tus contraseñas, pestañas y marcadores en todos los lugares donde uses Firefox, ¿tal vez?
+fxa-71aa24a2 = Sincroniza tus contraseñas, pestañas y marcadores en todos los lugares donde uses Firefox, ¿tal vez?
 # Headline for Email First Page
-92fd44ac = ¡¡¡Continúa a tu cuenta de Mozilla!!!
+fxa-92fd44ac = ¡¡¡Continúa a tu cuenta de Mozilla!!!
 # Primary Button Text for Email First Page
-b37391ed = ¿Registrarse o iniciar sesión?
+fxa-b37391ed = ¿Registrarse o iniciar sesión?
 # Email From Name for Shared
-502f1bd9 = Mozilla
+fxa-502f1bd9 = Mozilla
 # Logo Alt Text for Shared
-0247f558 = Logo de Firefox123
+fxa-0247f558 = Logo de Firefox123
 # Description for Signin Page
-8286e168 = para tu cuenta de Mozilla
+fxa-8286e168 = para tu cuenta de Mozilla
 # Primary Button Text for Signin Token Code Page
-e4029ca4 = Comenzar sincronización
+fxa-e4029ca4 = Comenzar sincronización
 # Description for Signup Confirm Code Page
-daaed757 = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla.
+fxa-daaed757 = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla.
 # Description for Signup Confirmed Sync Page
-2115ee89 = Tus contraseñas, métodos de pago, direcciones, marcadores, historial y más pueden sincronizarse en todos los lugares donde uses Firefox.
+fxa-2115ee89 = Tus contraseñas, métodos de pago, direcciones, marcadores, historial y más pueden sincronizarse en todos los lugares donde uses Firefox.
 # Headline for Signup Confirmed Sync Page
-3ed2d228 = La sincronización está activada
+fxa-3ed2d228 = La sincronización está activada
 # Primary Button Text for Signup Confirmed Sync Page
-598649e6 = Agregar otro dispositivo
+fxa-598649e6 = Agregar otro dispositivo
 # Description for Signup Set Password Page
-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en todos los lugares donde uses Firefox.
+fxa-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en todos los lugares donde uses Firefox.
 # Headline for Signup Set Password Page
-72786b8a = Crea una contraseña
+fxa-72786b8a = Crea una contraseña
 # Primary Button Text for Signup Set Password Page
-42369faa = Crear cuenta
+fxa-42369faa = Crear cuenta
 # Description for Verify Short Code Email
-ef1fb997 = Confirma tu cuenta
+fxa-ef1fb997 = Confirma tu cuenta
 # Headline for Verify Short Code Email
-f8578b7c = Usa el código incluido para confirmar tu cuenta de Mozilla.
+fxa-f8578b7c = Usa el código incluido para confirmar tu cuenta de Mozilla.
 
 ## OneTwoThreeDone - 123Done111111111111
 # Description for Email First Page
-54faaa23 = Comienza tu lista de tareas sin desorden con 123Done. Regístrate con tu correo para crear una cuenta de Mozilla y comenzar hoy.
+fxa-54faaa23 = Comienza tu lista de tareas sin desorden con 123Done. Regístrate con tu correo para crear una cuenta de Mozilla y comenzar hoy.
 # Headline for Email First Page
-f11ac15c = Haz espacio para lo que importa
+fxa-f11ac15c = Haz espacio para lo que importa
 # Primary Button Text for Email First Page
-29ff216d = Crear mi lista
+fxa-29ff216d = Crear mi lista
 # Description for New Device Login Email
-b6494cd9 = Nuevo inicio de sesión en dispositivo
+fxa-b6494cd9 = Nuevo inicio de sesión en dispositivo
 # Email From Name for Shared
-6107fd8b = 123Donee
+fxa-6107fd8b = 123Donee
 # Email Logo Alt Text for Shared
-bd9c68cb = Logo de 123Done
+fxa-bd9c68cb = Logo de 123Done
 # Description for Signin Unblock Code Page
-4e4353da = Autoriza este inicio de sesión
+fxa-4e4353da = Autoriza este inicio de sesión
 # Headline for Signin Unblock Code Page
-72d316fb = SigninUnblockCodePage
+fxa-72d316fb = SigninUnblockCodePage
 # Description for Signup Confirm Code Page
-09d5ff7f = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla y desbloquear 123Done.
+fxa-09d5ff7f = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla y desbloquear 123Done.
 # Headline for Signup Confirm Code Page
-20f65144 = Casi listo
+fxa-20f65144 = Casi listo
 # Primary Button Text for Signup Confirm Code Page
-223d7226 = Finalizar configuración
+fxa-223d7226 = Finalizar configuración
 # Description for Signup Confirmed Sync Page
-626b8d94 = Tu cuenta ha sido verificada.
+fxa-626b8d94 = Tu cuenta ha sido verificada.
 # Headline for Signup Confirmed Sync Page
-74db8403 = Sincronización confirmada
+fxa-74db8403 = Sincronización confirmada
 # Description for Signup Set Password Page
-e9b4f69a = Mantén tu cuenta privada y segura. Establece una contraseña para tu cuenta de Mozilla y comienza con 123Done.
+fxa-e9b4f69a = Mantén tu cuenta privada y segura. Establece una contraseña para tu cuenta de Mozilla y comienza con 123Done.
 # Headline for Signup Set Password Page
-45436174 = Crea tu contraseña
+fxa-45436174 = Crea tu contraseña
 # Description for Verify Login Code Email
-02cf1954 = Verificar código de inicio de sesión
+fxa-02cf1954 = Verificar código de inicio de sesión
 # Description for Verify Short Code Email
-e1c80a1a = Confirma tu cuenta para comenzar a usar 123Done
+fxa-e1c80a1a = Confirma tu cuenta para comenzar a usar 123Done
 # Headline for Verify Short Code Email
-8f70adb2 = Completar configuración
+fxa-8f70adb2 = Completar configuración
 # Subject for Verify Short Code Email
-3a7ebe9b = Código de confirmación para 123Done
+fxa-3a7ebe9b = Código de confirmación para 123Done
 
 ## sssdesktopSync - Desktop Sync - fxa_avatar_menuuuuuu1
 # Email From Name for Shared
-8939c681 = Firefoxxxx
+fxa-8939c681 = Firefoxxxx
 # Email Logo Alt Text for Shared
-8dfae10c = Logo de Firefox
+fxa-8dfae10c = Logo de Firefox
