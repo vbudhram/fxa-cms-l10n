@@ -1,4 +1,4 @@
-### Generated on 2025-10-17T15:59:02.873Z
+### Generated on 2025-10-17T16:04:58.107Z
 ### FTL file for CMS localization
 
 ## desktopSync2 - Desktop Sync - fxa_avatar_menuuuuuu111
@@ -135,7 +135,7 @@ e1c80a1a = Confirm your account to begin using 123Done
 # Subject for Verify Short Code Email
 3a7ebe9b = Confirmation code for 123Done
 
-## sssdesktopSync - Desktop Sync - fxa_avatar_menuuuuuu11111
+## sssdesktopSync - Desktop Sync - fxa_avatar_menuuuuuu
 # Email From Name for Shared
 8939c681 = Firefoxxxx
 # Email Logo Alt Text for Shared
