@@ -1,11 +1,11 @@
-### Generated on 2025-10-17T16:04:58.107Z
+### Generated on 2025-10-17T16:06:58.237Z
 ### FTL file for CMS localization
 
 ## desktopSync2 - Desktop Sync - fxa_avatar_menuuuuuu111
 # Description for Email First Page
-aac3076a = Sync your passwords, tabs, and bookmarks everywhere you use ⁨Firefox⁩.
+4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 # Headline for Email First Page
-d4399885 = Continue to your ⁨Mozilla account⁩
+33e9f42d = Continue to your Mozilla account
 # Logo Alt Text for Email First Page
 8c2857a9 = Logo
 # Primary Button Text for Email First Page
@@ -39,7 +39,7 @@ a7ba1d71 = We want to make sure it is you. Verify your email addres.
 # Primary Button Text for Signup Confirm Code Page
 6b862186 = Confirm Email
 # Description for Signup Confirmed Sync Page
-926ccc75 = Your passwords, addresses, bookmarks, history, and more can sync everywhere you use ⁨Firefox⁩...
+80ddaf0e = Your passwords, addresses, bookmarks, history, and more can sync everywhere you use Firefox...
 # Headline for Signup Confirmed Sync Page
 068241d3 = You are syncing Firefox
 # Primary Button Text for Signup Confirmed Sync Page
@@ -61,7 +61,7 @@ e2bbf688 = Confirm your email address to begin syncing your browser.
 
 ## desktopSyncFirefoxCms - Desktop Sync2233
 # Description for Email First Page
-06c9f290 = Sync your passwords, tabs, and bookmarks everywhere you use ⁨Firefox⁩, maybe?
+71aa24a2 = Sync your passwords, tabs, and bookmarks everywhere you use Firefox, maybe?
 # Headline for Email First Page
 92fd44ac = Continue to your Mozilla account!!!
 # Primary Button Text for Email First Page
@@ -71,19 +71,19 @@ b37391ed = Sign up or sign in?
 # Logo Alt Text for Shared
 0247f558 = Firefox logo123
 # Description for Signin Page
-ca4b61b1 = for your ⁨Mozilla account⁩
+8286e168 = for your Mozilla account
 # Primary Button Text for Signin Token Code Page
 e4029ca4 = Start syncing
 # Description for Signup Confirm Code Page
 daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
 # Description for Signup Confirmed Sync Page
-18aff0d2 = Your passwords, payment methods, addresses, bookmarks, history, and more can sync everywhere you use ⁨Firefox⁩.
+2115ee89 = Your passwords, payment methods, addresses, bookmarks, history, and more can sync everywhere you use Firefox.
 # Headline for Signup Confirmed Sync Page
 3ed2d228 = Sync is turned on
 # Primary Button Text for Signup Confirmed Sync Page
 598649e6 = Add another device
 # Description for Signup Set Password Page
-eced29bc = Sync your passwords, payment methods, bookmarks, and more everywhere you use ⁨Firefox⁩.
+201c6fe1 = Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
 # Headline for Signup Set Password Page
 72786b8a = Create a password
 # Primary Button Text for Signup Set Password Page
@@ -106,8 +106,6 @@ b6494cd9 = New device login
 6107fd8b = 123Donee
 # Email Logo Alt Text for Shared
 bd9c68cb = 123Done logo
-# Description for Signin Page
-8286e168 = for your Mozilla account
 # Description for Signin Unblock Code Page
 4e4353da = Authorize this sign-in
 # Headline for Signin Unblock Code Page
@@ -135,7 +133,7 @@ e1c80a1a = Confirm your account to begin using 123Done
 # Subject for Verify Short Code Email
 3a7ebe9b = Confirmation code for 123Done
 
-## sssdesktopSync - Desktop Sync - fxa_avatar_menuuuuuu
+## sssdesktopSync - Desktop Sync - fxa_avatar_menuuuuuu1
 # Email From Name for Shared
 8939c681 = Firefoxxxx
 # Email Logo Alt Text for Shared
